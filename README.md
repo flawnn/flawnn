@@ -5,6 +5,9 @@
 </a>
 <br> <br>
 
+[![Spotify](https://novatorem-iota-five.vercel.app/api/spotify)](https://open.spotify.com/user/ohoj8z8frz291xc3mjmg4svp6?si=_-o3SJNnQJypOkZA2FfS_w)
+
+
 
 - 🔭 I’m currently working for people on Fiverr
 - 🌱 I’m currently learning nothing
