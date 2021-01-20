@@ -9,9 +9,8 @@
 
 
 
-- 🔭 I’m currently working for people on Fiverr
-- 🌱 I’m currently learning nothing
+- 🔭 I’m currently working on nothing particular, just freelancing
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on big ideas
-- 🤔 I’m looking for help with nothign
 - 📫 How to reach me: hmu on telegram @fl4wn
 
