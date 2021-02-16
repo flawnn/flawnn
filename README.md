@@ -1,7 +1,6 @@
 ### Hi there 👋
 <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=flawnn&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawnn&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <br> <br>
 
