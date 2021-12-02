@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Metrics](https://github.com/flawnn/flawnn/blob/main/github-metrics.svg)
+<img src="https://github.com/flawnn/flawnn/blob/master/github-metrics.svg" alt="Metrics" width="100%">
