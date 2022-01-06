@@ -2321,7 +2321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sc0tfree/updog</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.</div>
@@ -2612,7 +2612,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2022, 15:08:21 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 6 Jan 2022, 16:08:42 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
