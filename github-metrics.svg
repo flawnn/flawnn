@@ -2221,7 +2221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>exercism/javascript</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exercism exercises in JavaScript.</div>
@@ -2612,7 +2612,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2022, 12:06:49 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 12 Feb 2022, 13:11:49 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
