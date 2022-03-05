@@ -2221,7 +2221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/WSL</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Issues found on WSL</div>
@@ -2527,7 +2527,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 979k out of 86m users</span>
+                                    <span class="gh">ranked 980k out of 86m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">31</div>
                                     </div>
@@ -2616,7 +2616,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2022, 10:08:15 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 5 Mar 2022, 11:09:20 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
