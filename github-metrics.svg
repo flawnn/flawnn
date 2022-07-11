@@ -2196,7 +2196,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HaikuTeam/animator</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Design tool for creating Lottie animations and interactive web components</div>
@@ -2296,7 +2296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ferdium/ferdium-app</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All your services in one place, built by the community</div>
@@ -2498,7 +2498,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 919k out of 94m users</span>
+                                    <span class="gh">ranked 920k out of 94m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">34</div>
                                     </div>
@@ -2587,7 +2587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2022, 11:15:07 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 11 Jul 2022, 12:12:54 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
