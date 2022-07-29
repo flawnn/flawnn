@@ -2222,7 +2222,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HaikuTeam/animator</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Design tool for creating Lottie animations and interactive web components</div>
@@ -2524,7 +2524,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 929k out of 95m users</span>
+                                    <span class="gh">ranked 930k out of 95m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">34</div>
                                     </div>
@@ -2613,7 +2613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2022, 14:20:01 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 15:32:36 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
