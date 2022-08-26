@@ -2257,7 +2257,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tournesol-app/tournesol</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository hosts the free and open source code of the Tournesol platform. Learn more about the project on our Wiki https://wiki.tournesol.app/ or meet the community on Discord https://discord.gg/WvcSG55Bf3</div>
@@ -2601,7 +2601,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2022, 17:12:09 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 18:13:47 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
