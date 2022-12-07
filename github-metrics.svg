@@ -2212,7 +2212,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felangel/bloc</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A predictable state management library that helps implement the BLoC design pattern</div>
@@ -2597,7 +2597,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2022, 14:17:43 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 7 Dec 2022, 15:08:33 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
