@@ -2201,7 +2201,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leo-lox/camelus</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nostr client</div>
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2023, 21:09:17 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Jan 2023, 22:08:05 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
