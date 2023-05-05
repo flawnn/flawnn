@@ -1806,10 +1806,10 @@
                             </g>
                         </g>
                         <g transform="translate(71.39999999999999, 42)">
-                            <g transform="translate(0, 4.421052631578948)">
+                            <g transform="translate(0, 4.7368421052631575)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5789473684210527 0,2.5789473684210527 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5789473684210527 1.7,3.5789473684210527 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.263157894736842 0,2.263157894736842 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.263157894736842 1.7,3.263157894736842 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.7368421052631575)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2619,7 +2619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2023, 22:08:47 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 May 2023, 23:07:21 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
