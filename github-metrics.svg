@@ -2207,7 +2207,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>etournity/etournity</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Esports Tournament Platform. Fast. Easy. Open-Source.</div>
@@ -2515,7 +2515,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 811k out of 115m users</span>
+                                    <span class="gh">ranked 786k out of 115m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">41</div>
                                     </div>
@@ -2604,7 +2604,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2023, 13:07:15 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 May 2023, 14:53:46 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
