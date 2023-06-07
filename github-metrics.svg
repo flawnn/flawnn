@@ -2206,7 +2206,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ohmyzsh/ohmyzsh</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</div>
@@ -2603,7 +2603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2023, 22:08:56 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Jun 2023, 23:07:35 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
