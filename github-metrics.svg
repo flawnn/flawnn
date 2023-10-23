@@ -2196,7 +2196,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HermanMartinus/bearblog</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free, no-nonsense, super fast blogging.</div>
@@ -2540,7 +2540,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 755k out of 121m users</span>
+                                    <span class="gh">ranked 755k out of 122m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">45</div>
                                     </div>
@@ -2587,7 +2587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2023, 15:11:51 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2023, 16:08:46 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
