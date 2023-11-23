@@ -2211,7 +2211,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meditohq/medito-app</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Medito app is a 100% free meditation app built with flutter. The app is available on Android and iOS.</div>
@@ -2317,7 +2317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d4rken-org/sdmaid-se</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SD Maid 2/SE is Android's most thorough cleaning tool.</div>
@@ -2561,7 +2561,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 738k out of 122m users</span>
+                                    <span class="gh">ranked 738k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">46</div>
                                     </div>
@@ -2608,7 +2608,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2023, 08:08:12 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2023, 09:11:25 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
