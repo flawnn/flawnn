@@ -2258,7 +2258,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meditohq/medito-app</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Medito app is a 100% free meditation app built with flutter. The app is available on Android and iOS.</div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 10:09:12 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 11:09:37 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
