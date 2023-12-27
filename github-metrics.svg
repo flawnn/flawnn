@@ -2212,7 +2212,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/avatar</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💎   Beautiful avatars as a microservice</div>
@@ -2265,7 +2265,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>noah-nuebling/mac-mouse-fix</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!</div>
@@ -2321,7 +2321,7 @@
                                         <span>starred 2 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">An API for fetching data from Twitter for free!</div>
+                                <div class="field description">A CLI tool and an API for fetching data from Twitter for free!</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2609,7 +2609,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 14:09:56 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 15:07:57 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
