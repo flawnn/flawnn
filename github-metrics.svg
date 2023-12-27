@@ -2212,7 +2212,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/avatar</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💎   Beautiful avatars as a microservice</div>
@@ -2265,7 +2265,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>noah-nuebling/mac-mouse-fix</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!</div>
@@ -2562,7 +2562,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 748k out of 127m users</span>
+                                    <span class="gh">ranked 748k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">46</div>
                                     </div>
@@ -2609,7 +2609,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 01:37:57 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 02:44:50 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
