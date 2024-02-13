@@ -2260,7 +2260,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markwitt1/concopy</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI tool to copy many files, in order to provide better context for AI assistants. Helps to iterate faster while leveraging LLM assistants.</div>
@@ -2598,7 +2598,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2024, 09:11:39 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2024, 10:08:46 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
