@@ -2212,7 +2212,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ckRobinson/multi-column-markdown</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin for the Obsidian markdown note application, adding functionality to render markdown documents with multiple columns of text.</div>
@@ -2563,7 +2563,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 647k out of 132m users</span>
+                                    <span class="gh">ranked 647k out of 130m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">51</div>
                                     </div>
@@ -2610,7 +2610,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 21:08:38 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 22:09:41 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
