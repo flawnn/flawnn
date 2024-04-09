@@ -2260,7 +2260,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flow-project/flow</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Computational framework for reinforcement learning in traffic control</div>
@@ -2557,7 +2557,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 634k out of 127m users</span>
+                                    <span class="gh">ranked 634k out of 134m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">52</div>
                                     </div>
@@ -2604,7 +2604,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2024, 09:10:13 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Apr 2024, 10:11:24 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
