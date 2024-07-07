@@ -2279,7 +2279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cassidoo/blahg</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cassidy's blog template built with Astro and TinaCMS!</div>
@@ -2326,7 +2326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/community-events</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Place where folks can contribute to 🤗 community events</div>
@@ -2564,7 +2564,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 597k out of 139m users</span>
+                                    <span class="gh">ranked 597k out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">55</div>
                                     </div>
@@ -2621,7 +2621,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2024, 10:11:29 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2024, 11:11:02 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
