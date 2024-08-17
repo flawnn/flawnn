@@ -35,7 +35,6 @@ jobs:
           
           # Options
           user: flawnn
-          template: classic
           filename: metrics2.svg
           config_timezone: Europe/Berlin
           plugin_achievements: yes
