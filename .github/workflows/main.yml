@@ -35,7 +35,7 @@ jobs:
           
           # Options
           user: flawnn
-          base_skip: true
+          base_skip: yes
           filename: metrics2.svg
           config_timezone: Europe/Berlin
           plugin_achievements: yes
