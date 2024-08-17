@@ -18,7 +18,7 @@ jobs:
           # Options
           user: flawnn
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -28,7 +28,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3 # Limit to 4 entries
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_music: yes
           plugin_music_provider: spotify # Use Spotify as provider
           plugin_music_mode: top      # Set plugin mode
