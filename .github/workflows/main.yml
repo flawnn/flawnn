@@ -19,6 +19,7 @@ jobs:
           user: flawnn
           template: classic
           base: header, activity, community, metadata
+          config_display: columns
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: compact
