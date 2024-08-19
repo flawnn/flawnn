@@ -260,7 +260,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GokuMohandas/Made-With-ML</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learn how to design, develop, deploy and iterate on production-grade ML applications.</div>
@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ollama/ollama</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siyuan-note/siyuan</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</div>
@@ -546,7 +546,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.33949349760438 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.4243668720055 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
