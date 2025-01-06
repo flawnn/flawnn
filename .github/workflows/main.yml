@@ -18,8 +18,8 @@ jobs:
           # Options
           user: flawnn
           template: classic
-          base: header, activity, community
-          config_order: base.header, base.activity+community, music, topics, stars, achievements
+          base: header
+          config_order: base.header, music, topics, stars, achievements
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: compact
