@@ -35,8 +35,8 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -231,7 +231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pashutk/chocofi</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Split 36-key keyboard</div>
@@ -278,7 +278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>usetrmnl/trmnl-firmware</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TRMNL e-ink device firmware</div>
