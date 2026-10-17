@@ -5,7 +5,9 @@
 
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
+<!-- paris:start -->
 <samp>📍 paris · utc+2 · ☀ 08:13 → 18:57 · 🌓</samp>
+<!-- paris:end -->
 
 <!-- band:start -->
 <picture>
