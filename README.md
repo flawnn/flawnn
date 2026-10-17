@@ -6,20 +6,17 @@
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
 <!-- paris:start -->
-<samp>📍 paris · utc+2 · ☀ 08:13 → 18:57 · 🌓</samp>
+<samp>📍 paris · utc+2 · ☀ 08:14 → 18:56 · 🌓</samp>
 <!-- paris:end -->
 
 <!-- band:start -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/band-dark.png">
-  <img src="./assets/band-light.png" alt="Today's pick from the Are.na channel hard pics" width="100%">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/band-dark.png"><img src="./assets/band-light.png" alt="Today&#x27;s pick from the Are.na channel hard pics" width="100%"></picture>
 <!-- band:end -->
 
 ### listening this week
 
 <!-- listening:start -->
-<a href="https://www.last.fm/music/Kiefer/Memory+Bomb" title="Memory Bomb — Kiefer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Memory Bomb — Kiefer" width="25.37%"></picture></a><a href="https://www.last.fm/music/Kofi+Stone/The+Last+Flower+To+Bloom" title="The Last Flower To Bloom — Kofi Stone"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="The Last Flower To Bloom — Kofi Stone" width="25.37%"></picture></a><a href="https://www.last.fm/music/Masego/Fix+Your+Face" title="Fix Your Face — Masego"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="Fix Your Face — Masego" width="25.37%"></picture></a><a href="https://www.last.fm/music/Potatohead+People/Mellow+Fantasy" title="Mellow Fantasy — Potatohead People"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Mellow Fantasy — Potatohead People" width="23.87%"></picture></a>
+<a href="https://www.last.fm/music/Kiefer/Memory+Bomb" title="Memory Bomb — Kiefer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Memory Bomb — Kiefer" width="25.37%"></picture></a><a href="https://www.last.fm/music/Kofi+Stone/The+Last+Flower+To+Bloom" title="The Last Flower To Bloom — Kofi Stone"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="The Last Flower To Bloom — Kofi Stone" width="25.37%"></picture></a><a href="https://www.last.fm/music/Potatohead+People/Mellow+Fantasy" title="Mellow Fantasy — Potatohead People"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="Mellow Fantasy — Potatohead People" width="25.37%"></picture></a><a href="https://www.last.fm/music/Potatohead+People/Nick+&amp;+Astro%27s+Guide+To+The+Galaxy" title="Nick &amp; Astro&#x27;s Guide To The Galaxy — Potatohead People"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Nick &amp; Astro&#x27;s Guide To The Galaxy — Potatohead People" width="23.87%"></picture></a>
 <!-- listening:end -->
 
 ### (currently) goated books
@@ -29,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [vemonet/alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free) · [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+★ [vemonet/alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
