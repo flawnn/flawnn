@@ -8,6 +8,7 @@ LASTFM_USER = "Flawn_"
 ARENA_CHANNEL = "hard-pics-g2xhskd63oq"
 GITHUB_USER = "flawnn"
 EXCLUDE_STARS: set[str] = set()
+EXCLUDE_STAR_OWNERS = {"flawnn"}
 
 ALBUM_COUNT = 4
 STAR_COUNT = 3

@@ -33,7 +33,9 @@ def build_listening(today: date) -> sections.Section:
 
 
 def build_stars(today: date) -> sections.Section:
-    pool = sources.fetch_stars(config.GITHUB_USER, os.environ.get("GITHUB_TOKEN"), config.EXCLUDE_STARS, config.STAR_POOL)
+    pool = sources.fetch_stars(
+        config.GITHUB_USER, os.environ.get("GITHUB_TOKEN"), config.EXCLUDE_STARS, config.EXCLUDE_STAR_OWNERS, config.STAR_POOL
+    )
     return sections.stars_section(sections.sample_stars(pool, config.STAR_COUNT, today.isoformat()))
 
 

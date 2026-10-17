@@ -73,13 +73,24 @@ def fetch_arena(slug: str) -> list[Block]:
     return parse_arena(get_json(f"https://api.are.na/v2/channels/{slug}?per=100"))
 
 
-def parse_stars(payload: list, exclude: set[str] = frozenset()) -> list[Star]:
-    return [Star(s["repo"]["full_name"], s["repo"]["html_url"]) for s in payload if s["repo"]["full_name"] not in exclude]
+def parse_stars(payload: list, exclude: set[str] = frozenset(), exclude_owners: set[str] = frozenset()) -> list[Star]:
+    return [
+        Star(s["repo"]["full_name"], s["repo"]["html_url"])
+        for s in payload
+        if s["repo"]["full_name"] not in exclude and s["repo"]["full_name"].split("/")[0] not in exclude_owners
+    ]
 
 
-def fetch_stars(user: str, token: str | None = None, exclude: set[str] = frozenset(), count: int = 3) -> list[Star]:
+def fetch_stars(
+    user: str,
+    token: str | None = None,
+    exclude: set[str] = frozenset(),
+    exclude_owners: set[str] = frozenset(),
+    count: int = 10,
+) -> list[Star]:
+    """Most recent stars. A token raises the rate limit, but a user token may hide org repos with OAuth app restrictions."""
     headers = {"Accept": "application/vnd.github.star+json"}
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    payload = get_json(f"https://api.github.com/users/{user}/starred?per_page={count + len(exclude)}", headers)
-    return parse_stars(payload, exclude)[:count]
+    payload = get_json(f"https://api.github.com/users/{user}/starred?per_page=100", headers)
+    return parse_stars(payload, exclude, exclude_owners)[:count]

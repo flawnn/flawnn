@@ -37,3 +37,11 @@ def test_stars_respect_exclusions():
     payload = load("github_starred.json")
     assert [s.name for s in parse_stars(payload)] == ["vemonet/alt-tab-macos-free"]
     assert parse_stars(payload, exclude={"vemonet/alt-tab-macos-free"}) == []
+
+
+def test_stars_exclude_by_owner():
+    payload = [
+        {"repo": {"full_name": "flawnn/asciitopia", "html_url": "https://github.com/flawnn/asciitopia"}},
+        {"repo": {"full_name": "cordademocracy/Polistemics", "html_url": "https://github.com/cordademocracy/Polistemics"}},
+    ]
+    assert [s.name for s in parse_stars(payload, exclude_owners={"flawnn"})] == ["cordademocracy/Polistemics"]
