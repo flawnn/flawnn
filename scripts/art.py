@@ -2,6 +2,8 @@ from dataclasses import dataclass
 
 from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageOps
 
+RGB = tuple[int, int, int]
+
 
 @dataclass(frozen=True)
 class Palette:
@@ -87,8 +89,6 @@ def tilt(img: Image.Image, degrees: float, shadow: bool = True) -> Image.Image:
     canvas.alpha_composite(rotated, (pad, pad))
     return canvas
 
-
-RGB = tuple[int, int, int]
 
 BAYER_4 = ((0, 8, 2, 10), (12, 4, 14, 6), (3, 11, 1, 9), (15, 7, 13, 5))
 
