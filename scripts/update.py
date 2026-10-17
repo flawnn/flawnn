@@ -68,14 +68,15 @@ def run(today: date) -> list[str]:
     for name, build in BUILDERS.items():
         try:
             section = build(today)
-            readme = splice(readme, name, section.body)
+            spliced = splice(readme, name, section.body)
+            changed = [n for n, img in section.assets.items() if write_asset(config.ASSETS / n, img)]
+            if name == "listening":
+                remove_stale_tiles("listening", set(section.assets))
+            readme = spliced
         except Exception:
             log.exception("section '%s' failed; keeping its previous content", name)
             failed.append(name)
             continue
-        changed = [n for n, img in section.assets.items() if write_asset(config.ASSETS / n, img)]
-        if name == "listening":
-            remove_stale_tiles("listening", set(section.assets))
         log.info("%s: ok, %d asset(s) rewritten", name, len(changed))
     config.README.write_text(readme)
     return failed
