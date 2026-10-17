@@ -1,5 +1,6 @@
 import math
 import random
+import re
 from collections.abc import Callable
 from dataclasses import dataclass, field
 from html import escape
@@ -12,6 +13,7 @@ from daylight import Day
 from sources import Album, Block, Star
 
 MODES = ("light", "dark")
+FILENAME = re.compile(r"\.(jpe?g|png|gif|webp)$", re.I)
 
 
 @dataclass
@@ -60,10 +62,11 @@ def listening_section(albums: list[Album], covers: list[Image.Image]) -> Section
 
 
 def has_tone(img: Image.Image) -> bool:
-    """Photos, not text screenshots: enough spread and not mostly paper-white."""
+    """Photos, not text screenshots or text-on-black graphics: enough spread, no dominant paper or void."""
     gray = ImageOps.grayscale(img.resize((160, 120)))
-    white_share = sum(gray.histogram()[236:]) / (160 * 120)
-    return ImageStat.Stat(gray).stddev[0] > 25 and white_share < 0.5
+    histogram, pixels = gray.histogram(), 160 * 120
+    white_share, black_share = sum(histogram[236:]) / pixels, sum(histogram[:20]) / pixels
+    return ImageStat.Stat(gray).stddev[0] > 25 and white_share < 0.5 and black_share < 0.5
 
 
 def pick_band(blocks: list[Block], load: Callable[[str], Image.Image], seed: str) -> tuple[Block, Image.Image]:
@@ -80,5 +83,6 @@ def pick_band(blocks: list[Block], load: Callable[[str], Image.Image], seed: str
 def band_section(block: Block, image: Image.Image) -> Section:
     fitted = ImageOps.fit(image, BAND_SIZE, Image.Resampling.LANCZOS, centering=(0.5, 0.4))
     assets = {f"band-{mode}.png": art.dissolve(ink(fitted, mode), edge=0.42, block=6) for mode in MODES}
-    alt = f"{block.title or 'Untitled'}, from the Are.na channel hard pics"
+    named = block.title and not FILENAME.search(block.title)
+    alt = f"{block.title}, today's pick from the Are.na channel hard pics" if named else "Today's pick from the Are.na channel hard pics"
     return Section(picture("band", alt, "100%"), assets)

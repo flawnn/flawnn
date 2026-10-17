@@ -4,7 +4,7 @@ from datetime import datetime
 from PIL import Image
 
 from daylight import PARIS, Day
-from sections import band_section, pick_band, listening_section, paris_section, stars_section
+from sections import band_section, has_tone, pick_band, listening_section, paris_section, stars_section
 from sources import Album, Block, Star
 
 
@@ -46,3 +46,12 @@ def test_band_section_has_both_modes():
     section = band_section(Block(2, "photo", "u"), Image.effect_noise((800, 600), 80).convert("RGB"))
     assert set(section.assets) == {"band-light.png", "band-dark.png"}
     assert 'alt="photo' in section.body
+
+
+def test_band_skips_text_on_black():
+    assert not has_tone(Image.new("RGB", (400, 300), (5, 5, 5)))
+
+
+def test_band_alt_ignores_filenames():
+    section = band_section(Block(3, "b732ba1f.jpg", "u"), Image.linear_gradient("L").resize((800, 600)).convert("RGB"))
+    assert "b732ba1f" not in section.body and "Today&#x27;s pick from the Are.na channel" in section.body
