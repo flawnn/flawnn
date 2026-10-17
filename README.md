@@ -3,9 +3,9 @@
   <img src="./assets/header-light.png" alt="Hi there." width="190">
 </picture>
 
-I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Sometimes I also wonder what any of this is really about ¯\\\_(ツ)\_/¯
+I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
-<samp>📍 paris · utc+2</samp>
+<samp>📍 paris · utc+2 · ☀ 08:13 → 18:57 · 🌓</samp>
 
 <!-- band:start -->
 <picture>
