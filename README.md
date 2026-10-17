@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
-  <img src="./assets/header-light.png" alt="Hi there." width="230">
+  <img src="./assets/header-light.png" alt="Hi there." width="190">
 </picture>
 
-I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. And I sometimes wonder why we take any of this so seriously (seriously, go enjoy life).
+I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Sometimes I also wonder what any of this is really about ¯\\\_(ツ)\_/¯
 
-<samp>📍paris · utc+2</samp>
+<samp>📍 paris · utc+2</samp>
 
 <!-- band:start -->
 <picture>
