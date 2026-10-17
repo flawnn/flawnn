@@ -4,7 +4,7 @@ from datetime import datetime
 from PIL import Image
 
 from daylight import PARIS, Day
-from sections import band_section, has_tone, pick_band, listening_section, paris_section, stars_section
+from sections import band_section, has_tone, pick_band, sample_stars, listening_section, paris_section, stars_section
 from sources import Album, Block, Star
 
 
@@ -55,3 +55,11 @@ def test_band_skips_text_on_black():
 def test_band_alt_ignores_filenames():
     section = band_section(Block(3, "b732ba1f.jpg", "u"), Image.linear_gradient("L").resize((800, 600)).convert("RGB"))
     assert "b732ba1f" not in section.body and "Today&#x27;s pick from the Are.na channel" in section.body
+
+
+def test_star_sample_is_daily_stable_and_ordered():
+    pool = [Star(f"u/r{i}", f"https://github.com/u/r{i}") for i in range(10)]
+    today = sample_stars(pool, 3, "2026-10-17")
+    assert today == sample_stars(pool, 3, "2026-10-17")
+    assert len(today) == 3 and today == sorted(today, key=pool.index)
+    assert sample_stars(pool[:2], 3, "2026-10-17") == pool[:2]

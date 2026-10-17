@@ -43,6 +43,12 @@ def paris_section(day: Day) -> Section:
     )
 
 
+def sample_stars(stars: list[Star], count: int, seed: str) -> list[Star]:
+    """A seeded daily sample that keeps the starred order."""
+    picked = set(random.Random(seed).sample(range(len(stars)), min(count, len(stars))))
+    return [s for i, s in enumerate(stars) if i in picked]
+
+
 def stars_section(stars: list[Star]) -> Section:
     if not stars:
         return Section("★ nothing new")
