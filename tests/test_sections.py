@@ -16,7 +16,7 @@ def test_paris_line():
 def test_stars_line_and_empty_state():
     stars = [Star("a/b", "https://github.com/a/b"), Star("c/d", "https://github.com/c/d")]
     assert stars_section(stars).body == "★ [a/b](https://github.com/a/b) · [c/d](https://github.com/c/d)"
-    assert stars_section([]).body == "★ nothing new"
+    assert stars_section([]).body == "★ none yet"
 
 
 def test_listening_tiles_fill_the_row_and_link_out():
@@ -63,3 +63,15 @@ def test_star_sample_is_daily_stable_and_ordered():
     assert today == sample_stars(pool, 3, "2026-10-17")
     assert len(today) == 3 and today == sorted(today, key=pool.index)
     assert sample_stars(pool[:2], 3, "2026-10-17") == pool[:2]
+
+
+def test_band_skips_blocks_that_fail_to_download():
+    photo = Image.linear_gradient("L").resize((400, 300)).convert("RGB")
+
+    def load(url):
+        if url == "broken":
+            raise OSError("404")
+        return photo
+
+    blocks = [Block(i, str(i), "broken") for i in range(5)] + [Block(9, "ok", "fine")]
+    assert pick_band(blocks, load, "2026-10-17")[0].title == "ok"

@@ -51,7 +51,7 @@ def sample_stars(stars: list[Star], count: int, seed: str) -> list[Star]:
 
 def stars_section(stars: list[Star]) -> Section:
     if not stars:
-        return Section("★ nothing new")
+        return Section("★ none yet")
     return Section("★ " + " · ".join(f"[{s.name}]({s.url})" for s in stars))
 
 
@@ -80,7 +80,10 @@ def pick_band(blocks: list[Block], load: Callable[[str], Image.Image], seed: str
     order = sorted(blocks, key=lambda b: b.id)
     random.Random(seed).shuffle(order)
     for block in order:
-        image = load(block.image_url)
+        try:
+            image = load(block.image_url)
+        except OSError:
+            continue
         if has_tone(image):
             return block, image
     raise LookupError("no photo-like block in the channel")
