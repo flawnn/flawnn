@@ -26,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) · [vemonet/alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free)
+★ [cordademocracy/aidemocracymap](https://github.com/cordademocracy/aidemocracymap) · [OpenTSLM/OpenTSLM](https://github.com/OpenTSLM/OpenTSLM) · [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
