@@ -3,11 +3,9 @@
   <img src="./assets/header-light.png" alt="Hi there." width="230">
 </picture>
 
-[2–3 lines: who you are · CODE Berlin · what you research and build]
+I’m Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my free time, I currently ponder a lot about LLMs and how they affect the way we work & live. Besides that, I like to enjoy the sun, drink a wine and listen to music. And I wonder if all of *this* even makes sense
 
-<samp>paris · utc+2</samp>
-
-<samp>researching</samp> [thesis] · <samp>building</samp> [project] · <samp>writing</samp> [fragments on [flawn.eu](https://flawn.eu)] · <samp>off-screen</samp> [hobby]
+<samp>📍paris · utc+2</samp>
 
 <!-- band:start -->
 <picture>
@@ -19,18 +17,12 @@
 ### listening this week
 
 <!-- listening:start -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/listening-dark.png">
-  <img src="./assets/listening-light.png" alt="Top albums this week: Memory Bomb by Kiefer, The Last Flower To Bloom by Kofi Stone, Fix Your Face by Masego, Mellow Fantasy by Potatohead People" width="100%">
-</picture>
+<a href="https://www.last.fm/music/Kiefer/Memory+Bomb" title="Memory Bomb — Kiefer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Memory Bomb — Kiefer" width="25.37%"></picture></a><a href="https://www.last.fm/music/Kofi+Stone/The+Last+Flower+To+Bloom" title="The Last Flower To Bloom — Kofi Stone"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="The Last Flower To Bloom — Kofi Stone" width="25.37%"></picture></a><a href="https://www.last.fm/music/Masego/Fix+Your+Face" title="Fix Your Face — Masego"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="Fix Your Face — Masego" width="25.37%"></picture></a><a href="https://www.last.fm/music/Potatohead+People/Mellow+Fantasy" title="Mellow Fantasy — Potatohead People"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Mellow Fantasy — Potatohead People" width="23.87%"></picture></a>
 <!-- listening:end -->
 
-### goated books
+### (currently) goated books
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/books-dark.png">
-  <img src="./assets/books-light.png" alt="Gödel, Escher, Bach · Coffee and Cigarettes · Authentisch leben · Project Hail Mary · Sapiens" width="100%">
-</picture>
+<a href="https://www.goodreads.com/book/show/24113" title="Gödel, Escher, Bach"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/books-0-dark.png"><img src="./assets/books-0-light.png" alt="Gödel, Escher, Bach" width="20.56%"></picture></a><a href="https://www.goodreads.com/book/show/75593757" title="Coffee and Cigarettes"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/books-1-dark.png"><img src="./assets/books-1-light.png" alt="Coffee and Cigarettes" width="20.37%"></picture></a><a href="https://www.goodreads.com/book/show/5294726" title="Authentisch leben"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/books-2-dark.png"><img src="./assets/books-2-light.png" alt="Authentisch leben" width="19.68%"></picture></a><a href="https://www.goodreads.com/book/show/54493401" title="Project Hail Mary"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/books-3-dark.png"><img src="./assets/books-3-light.png" alt="Project Hail Mary" width="20.37%"></picture></a><a href="https://www.goodreads.com/book/show/23692271" title="Sapiens"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/books-4-dark.png"><img src="./assets/books-4-light.png" alt="Sapiens" width="19.0%"></picture></a>
 
 ### recently starred
 
@@ -38,4 +30,4 @@
 ★ [vemonet/alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free) · [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 <!-- stars:end -->
 
-<samp>[flawn.eu](https://flawn.eu) · [scholar](#) · [linkedin](#) · [mail](#)</samp>
+<samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
