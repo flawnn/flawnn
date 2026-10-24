@@ -6,7 +6,7 @@
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
 <!-- paris:start -->
-<samp>📍 paris · utc+2 · ☀ 08:24 → 18:45 · 🌔</samp>
+<samp>📍 paris · utc+2 · ☀ 07:25 → 17:43 · 🌕</samp>
 <!-- paris:end -->
 
 <!-- band:start -->
@@ -16,7 +16,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### listening this week
 
 <!-- listening:start -->
-<a href="https://www.last.fm/music/Leo+SVR/TWIN+SPEAK" title="TWIN SPEAK — Leo SVR"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="TWIN SPEAK — Leo SVR" width="25.37%"></picture></a><a href="https://www.last.fm/music/Illa+J/Illa+J" title="Illa J — Illa J"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="Illa J — Illa J" width="25.37%"></picture></a><a href="https://www.last.fm/music/Damlif/emojiski" title="emojiski — Damlif"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="emojiski — Damlif" width="25.37%"></picture></a><a href="https://www.last.fm/music/Potatohead+People/Mellow+Fantasy" title="Mellow Fantasy — Potatohead People"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Mellow Fantasy — Potatohead People" width="23.87%"></picture></a>
+<a href="https://www.last.fm/music/Leo+SVR/TWIN+SPEAK" title="TWIN SPEAK — Leo SVR"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="TWIN SPEAK — Leo SVR" width="50.74%"></picture></a><a href="https://www.last.fm/music/Damlif/emojiski" title="emojiski — Damlif"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="emojiski — Damlif" width="49.25%"></picture></a>
 <!-- listening:end -->
 
 ### (currently) goated books
@@ -26,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) · [mistralai/cookbook](https://github.com/mistralai/cookbook) · [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark)
+★ [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) · [mistralai/cookbook](https://github.com/mistralai/cookbook) · [cordademocracy/Polistemics](https://github.com/cordademocracy/Polistemics)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
