@@ -6,7 +6,7 @@
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
 <!-- paris:start -->
-<samp>📍 paris · utc+1 · ☀ 07:33 → 17:34 · 🌖</samp>
+<samp>📍 paris · utc+1 · ☀ 07:35 → 17:32 · 🌖</samp>
 <!-- paris:end -->
 
 <!-- band:start -->
@@ -16,7 +16,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### listening this week
 
 <!-- listening:start -->
-<a href="https://www.last.fm/music/Arlo/Arlo" title="Arlo — Arlo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Arlo — Arlo" width="25.37%"></picture></a><a href="https://www.last.fm/music/Thouxanbanfauni/Clairvoyance" title="Clairvoyance — Thouxanbanfauni"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="Clairvoyance — Thouxanbanfauni" width="25.37%"></picture></a><a href="https://www.last.fm/music/it%27s+murph/weightless" title="weightless — it&#x27;s murph"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="weightless — it&#x27;s murph" width="25.37%"></picture></a><a href="https://www.last.fm/music/Chavo/Chavo%27s+World" title="Chavo&#x27;s World — Chavo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Chavo&#x27;s World — Chavo" width="23.87%"></picture></a>
+<a href="https://www.last.fm/music/Arlo/Arlo" title="Arlo — Arlo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Arlo — Arlo" width="25.37%"></picture></a><a href="https://www.last.fm/music/Thouxanbanfauni/Clairvoyance" title="Clairvoyance — Thouxanbanfauni"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="Clairvoyance — Thouxanbanfauni" width="25.37%"></picture></a><a href="https://www.last.fm/music/it%27s+murph/weightless" title="weightless — it&#x27;s murph"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="weightless — it&#x27;s murph" width="25.37%"></picture></a><a href="https://www.last.fm/music/Thouxanbanfauni/Time+of+My+Life" title="Time of My Life — Thouxanbanfauni"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Time of My Life — Thouxanbanfauni" width="23.87%"></picture></a>
 <!-- listening:end -->
 
 ### (currently) goated books
@@ -26,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [vemonet/alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free) · [cordademocracy/aidemocracymap](https://github.com/cordademocracy/aidemocracymap) · [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
+★ [Joelheile/voz](https://github.com/Joelheile/voz) · [mistralai/cookbook](https://github.com/mistralai/cookbook) · [cordademocracy/aidemocracymap](https://github.com/cordademocracy/aidemocracymap)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
