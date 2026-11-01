@@ -6,7 +6,7 @@
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
 <!-- paris:start -->
-<samp>📍 paris · utc+1 · ☀ 07:36 → 17:31 · 🌖</samp>
+<samp>📍 paris · utc+1 · ☀ 07:38 → 17:29 · 🌗</samp>
 <!-- paris:end -->
 
 <!-- band:start -->
@@ -26,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [vemonet/alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free) · [mistralai/cookbook](https://github.com/mistralai/cookbook) · [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+★ [Joelheile/voz](https://github.com/Joelheile/voz) · [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) · [cordademocracy/aidemocracymap](https://github.com/cordademocracy/aidemocracymap)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
