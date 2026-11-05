@@ -6,7 +6,7 @@
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
 <!-- paris:start -->
-<samp>📍 paris · utc+1 · ☀ 07:43 → 17:25 · 🌘</samp>
+<samp>📍 paris · utc+1 · ☀ 07:44 → 17:23 · 🌘</samp>
 <!-- paris:end -->
 
 <!-- band:start -->
@@ -16,7 +16,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### listening this week
 
 <!-- listening:start -->
-<a href="https://www.last.fm/music/Thouxanbanfauni/Clairvoyance" title="Clairvoyance — Thouxanbanfauni"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Clairvoyance — Thouxanbanfauni" width="25.37%"></picture></a><a href="https://www.last.fm/music/Flee/XOOL+SUMMER" title="XOOL SUMMER — Flee"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="XOOL SUMMER — Flee" width="25.37%"></picture></a><a href="https://www.last.fm/music/Thouxanbanfauni/Time+of+My+Life" title="Time of My Life — Thouxanbanfauni"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="Time of My Life — Thouxanbanfauni" width="25.37%"></picture></a><a href="https://www.last.fm/music/Cyrax/Stay+Active+2" title="Stay Active 2 — Cyrax"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Stay Active 2 — Cyrax" width="23.87%"></picture></a>
+<a href="https://www.last.fm/music/Thouxanbanfauni/Clairvoyance" title="Clairvoyance — Thouxanbanfauni"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Clairvoyance — Thouxanbanfauni" width="25.37%"></picture></a><a href="https://www.last.fm/music/Flee/XOOL+SUMMER" title="XOOL SUMMER — Flee"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="XOOL SUMMER — Flee" width="25.37%"></picture></a><a href="https://www.last.fm/music/Telemakus/Eight+Ring+Revival" title="Eight Ring Revival — Telemakus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="Eight Ring Revival — Telemakus" width="25.37%"></picture></a><a href="https://www.last.fm/music/Harrison/Birds,+Bees,+the+Clouds+&amp;+The+Trees" title="Birds, Bees, the Clouds &amp; The Trees — Harrison"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Birds, Bees, the Clouds &amp; The Trees — Harrison" width="23.87%"></picture></a>
 <!-- listening:end -->
 
 ### (currently) goated books
@@ -26,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) · [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) · [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
+★ [Joelheile/voz](https://github.com/Joelheile/voz) · [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) · [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
