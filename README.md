@@ -6,7 +6,7 @@
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
 <!-- paris:start -->
-<samp>📍 paris · utc+1 · ☀ 08:11 → 17:02 · 🌔</samp>
+<samp>📍 paris · utc+1 · ☀ 08:12 → 17:01 · 🌕</samp>
 <!-- paris:end -->
 
 <!-- band:start -->
@@ -16,7 +16,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### listening this week
 
 <!-- listening:start -->
-<a href="https://www.last.fm/music/Ethan+French/ideas+of+the+day+-+vol.+1" title="ideas of the day - vol. 1 — Ethan French"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="ideas of the day - vol. 1 — Ethan French" width="25.37%"></picture></a><a href="https://www.last.fm/music/P%C3%ACjus/Inspired+Life" title="Inspired Life — Pìjus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="Inspired Life — Pìjus" width="25.37%"></picture></a><a href="https://www.last.fm/music/femdot./This+Should+Be+On+Cassette,+vol.+1" title="This Should Be On Cassette, vol. 1 — femdot."><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="This Should Be On Cassette, vol. 1 — femdot." width="25.37%"></picture></a><a href="https://www.last.fm/music/KAYTRANADA/BUBBA" title="BUBBA — KAYTRANADA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="BUBBA — KAYTRANADA" width="23.87%"></picture></a>
+<a href="https://www.last.fm/music/P%C3%ACjus/Inspired+Life" title="Inspired Life — Pìjus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Inspired Life — Pìjus" width="25.37%"></picture></a><a href="https://www.last.fm/music/Ethan+French/ideas+of+the+day+-+vol.+1" title="ideas of the day - vol. 1 — Ethan French"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="ideas of the day - vol. 1 — Ethan French" width="25.37%"></picture></a><a href="https://www.last.fm/music/MPH/Here,+Forever" title="Here, Forever — MPH"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="Here, Forever — MPH" width="25.37%"></picture></a><a href="https://www.last.fm/music/Grand+Theft+Auto+VI/Grand+Theft+Auto+VI:+The+Album" title="Grand Theft Auto VI: The Album — Grand Theft Auto VI"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Grand Theft Auto VI: The Album — Grand Theft Auto VI" width="23.87%"></picture></a>
 <!-- listening:end -->
 
 ### (currently) goated books
@@ -26,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) · [vemonet/alt-tab-macos-free](https://github.com/vemonet/alt-tab-macos-free) · [cordademocracy/aidemocracymap](https://github.com/cordademocracy/aidemocracymap)
+★ [Joelheile/voz](https://github.com/Joelheile/voz) · [cordademocracy/aidemocracymap](https://github.com/cordademocracy/aidemocracymap) · [OpenTSLM/OpenTSLM](https://github.com/OpenTSLM/OpenTSLM)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
