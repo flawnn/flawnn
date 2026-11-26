@@ -6,7 +6,7 @@
 I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently working at Mistral 🐈 and co-leading [CORDA](https://cordademocracy.org). In my spare time, I ponder currently a lot about LLMs and how they affect the way we live and make sense together. Besides that, I like to enjoy the sun, drink a wine and listen to music. Enjoy!
 
 <!-- paris:start -->
-<samp>📍 paris · utc+1 · ☀ 08:15 → 17:00 · 🌕</samp>
+<samp>📍 paris · utc+1 · ☀ 08:17 → 16:59 · 🌕</samp>
 <!-- paris:end -->
 
 <!-- band:start -->
@@ -16,7 +16,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### listening this week
 
 <!-- listening:start -->
-<a href="https://www.last.fm/music/P%C3%ACjus/Inspired+Life" title="Inspired Life — Pìjus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Inspired Life — Pìjus" width="25.37%"></picture></a><a href="https://www.last.fm/music/Mez/Electric+Future+Gangster" title="Electric Future Gangster — Mez"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="Electric Future Gangster — Mez" width="25.37%"></picture></a><a href="https://www.last.fm/music/LIFEOFTHOM/COCOTASO" title="COCOTASO — LIFEOFTHOM"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="COCOTASO — LIFEOFTHOM" width="25.37%"></picture></a><a href="https://www.last.fm/music/MPH/Here,+Forever" title="Here, Forever — MPH"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="Here, Forever — MPH" width="23.87%"></picture></a>
+<a href="https://www.last.fm/music/P%C3%ACjus/Inspired+Life" title="Inspired Life — Pìjus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-0-dark.png"><img src="./assets/listening-0-light.png" alt="Inspired Life — Pìjus" width="25.37%"></picture></a><a href="https://www.last.fm/music/Mez/Electric+Future+Gangster" title="Electric Future Gangster — Mez"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-1-dark.png"><img src="./assets/listening-1-light.png" alt="Electric Future Gangster — Mez" width="25.37%"></picture></a><a href="https://www.last.fm/music/Karizma/Call+!t+A+Rem!x" title="Call !t A Rem!x — Karizma"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-2-dark.png"><img src="./assets/listening-2-light.png" alt="Call !t A Rem!x — Karizma" width="25.37%"></picture></a><a href="https://www.last.fm/music/LIFEOFTHOM/COCOTASO" title="COCOTASO — LIFEOFTHOM"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/listening-3-dark.png"><img src="./assets/listening-3-light.png" alt="COCOTASO — LIFEOFTHOM" width="23.87%"></picture></a>
 <!-- listening:end -->
 
 ### (currently) goated books
@@ -26,7 +26,7 @@ I'm Baran, an engineer & researcher, originally from Berlin 🐻 and currently w
 ### recently starred
 
 <!-- stars:start -->
-★ [Joelheile/voz](https://github.com/Joelheile/voz) · [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) · [mistralai/cookbook](https://github.com/mistralai/cookbook)
+★ [Joelheile/voz](https://github.com/Joelheile/voz) · [mistralai/cookbook](https://github.com/mistralai/cookbook) · [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
 <!-- stars:end -->
 
 <samp>[my webpage](https://flawn.eu) · [scholar](https://scholar.google.com/citations?user=n4J2-ywAAAAJ&hl=en) · [linkedin](https://www.linkedin.com/in/baranpeters) · [mail](mailto:me@flawn.eu)</samp>
